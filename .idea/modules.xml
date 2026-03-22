@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2nd_homework.iml" filepath="$PROJECT_DIR$/.idea/2nd_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3rd homework_qrCode/.idea/3rd homework_qrCode.iml" filepath="$PROJECT_DIR$/../3rd homework_qrCode/.idea/3rd homework_qrCode.iml" />
     </modules>
   </component>
 </project>
